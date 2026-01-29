@@ -8,16 +8,19 @@ I'm a Senior Technical Writer at AWS and founder of [Vibe Data](https://vibe-dat
 Presented at AI in Fort Wayne (January 2026) on using MCP as a thin bridge layer on REST APIs.  
 [Blog Post](https://grzeti.ch/blog/mcp-api-bridge) • [Slides](https://speakerdeck.com/egrzetich/making-data-conversational-building-mcp-servers-as-api-bridges) • [Code](https://github.com/grzetich/ai-developer-tools-mcp)
 
-## 🚀 Open Source Projects
+## Open Source Projects
 
-### AI & Developer Tools
+### 🤖 AI & Developer Tools
 - **[MCP Educational Server](https://github.com/grzetich/ai-developer-tools-mcp)** - Educational MCP implementation demonstrating API bridge pattern
-- **[Claude.md Topic Analyzer](https://analyze-claude-md.onrender.com)** - Research tool analyzing AI documentation patterns across 1,000+ repositories
+- **[Claude.md Topic Analyzer](https://analyze-claude-md.onrender.com)** - Research tool analyzing AI documentation patterns
 
-### AWS Amplify
-- **[Amplify UI Help Panel](https://github.com/grzetich/amplify-ui-help-panel)** - Contextual help component for Amplify applications with TypeScript support
+### ⚛️ AWS Amplify
+- **[Amplify UI Help Panel](https://github.com/grzetich/amplify-ui-help-panel)** - Contextual help component for Amplify applications
 
-### Data Intelligence
+### 📊 Data Intelligence
+- **[Vibe Data](https://vibe-data.com)** - Adoption intelligence platform for AI development tools
+
+## Data Intelligence
 - **[Vibe Data](https://vibe-data.com)** - Adoption intelligence platform tracking 50+ AI development tools
 
 ## 📝 Latest Blog Posts
